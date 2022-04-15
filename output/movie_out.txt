@@ -1,0 +1,4 @@
+Action 10
+Comedy 4
+Crime 1
+Drama 5
